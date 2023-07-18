@@ -9,3 +9,4 @@ Arch是一个可以根据用户需求而自行定制的Linux发行版本，而�
 - 注意！这是一篇关于双系统的安装方法
 
 ## 准备工作：
+  1.在[Arch Linux 中文维基下载iso镜像](https://archlinux.org/download/)
