@@ -26,7 +26,7 @@ Arch是一个可以根据用户需求而自行定制的Linux发行版本，而�
   ## 安装arch:
   注意：必须确保是UEFI 模式下启动，可以自行输入ls /sys/firmware/efi/efivars指令来进行判断，如果能列出大量文件，则为UEFI 模式  
 
-  1.连接wifi，不是使用wifi的可以跳过此步骤  
+  ### 1.连接wifi，不是使用wifi的可以跳过此步骤  
 
   - 注意：如果使用手机通过数据线共享网络，笔者使用的安卓手机出现了导致手机重启的情况，所以笔者还是建议使用wifi好
   - 在tty中输入iwctl指令进入iwd程序进行连接wifi
@@ -38,6 +38,7 @@ Arch是一个可以根据用户需求而自行定制的Linux发行版本，而�
   - 退出后在tty中输入ping github.com 如果能ping成功的话，那wifi就是连接成功了
   - 顺便更新一下系统时钟，输入timedatectl指令
 
-  2.
+  ### 2.在磁盘中为arch创建根分区
+  
   
   
