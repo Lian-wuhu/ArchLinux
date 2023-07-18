@@ -37,5 +37,6 @@ Arch是一个可以根据用户需求而自行定制的Linux发行版本，而�
   - 如果无报错大概率是连接成功了，输入quit退出iwd程序
   - 退出后在tty中输入ping github.com 如果能ping成功的话，那wifi就是连接成功了
 
+  2.
   
   
