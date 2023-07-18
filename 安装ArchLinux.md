@@ -11,6 +11,6 @@ Arch是一个可以根据用户需求而自行定制的Linux发行版本，而�
 ## 准备工作：
   1.[在Arch Linux 中文维基下载iso镜像](https://archlinux.org/download/)  
   
-  2.使用[Ventoy工具](https://github.com/ventoy/Ventoy/releases)写入引导信息在u盘上  
+  2.使用免费开源的工具[Ventoy](https://github.com/ventoy/Ventoy/releases)在windows上写入引导信息在u盘  
   
   该工具会把u盘分为两个分区，一个分区是存放着引导信息，另一个分区存放iso镜像，而我们需要把下载好的iso放进u盘里面
