@@ -9,5 +9,6 @@ Arch是一个可以根据用户需求而自行定制的Linux发行版本，而�
 - 注意！这是一篇关于双系统的安装方法
 
 ## 准备工作：
-  1.[在Arch Linux 中文维基下载iso镜像](https://archlinux.org/download/)
-  2.[使用win系统使用Ventoy工具写入启动引导信息在u盘上](https://github.com/ventoy/Ventoy/releases)
+  1.[在Arch Linux 中文维基下载iso镜像](https://archlinux.org/download/)  
+  
+  2.使用[Ventoy工具](https://github.com/ventoy/Ventoy/releases)写入引导信息在u盘上，该工具会把u盘分为两个分区，一个分区是存放着引导信息，另一个分区存放iso镜像
