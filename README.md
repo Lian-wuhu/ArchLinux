@@ -4,6 +4,7 @@
 
 ## 目录
  - 1.[如何安装ArchLinux](https://github.com/Lian-wuhu/ArchLinux/blob/main/%E5%AE%89%E8%A3%85ArchLinux.md)
- - 2.[安装dwl窗口管理器]()
- - 3.[安装一些基础的软件]()
+ - 2.[Arch的初始工作]()
+ - 3.[安装dwl窗口管理器]()
+ - 4.[安装一些基础的软件]()
  - ……
