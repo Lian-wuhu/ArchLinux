@@ -35,6 +35,7 @@ Arch是一个可以根据用户需求而自行定制的Linux发行版本，而�
   - 输入station wlan0 get-networks指令列出当前扫描到的wifi，建议wifi名别是中文（该指令不是必须输入的）
   - 输入station wlan0 connect "wifi名字" 来进行连接wifi,输入该指令后它会提示您输入密码
   - 如果无报错大概率是连接成功了，输入quit退出iwd程序
+  - 退出后在tty中输入ping www.baidu.com 如果能ping成功的话，那wifi就是连接成功了
 
   
   
