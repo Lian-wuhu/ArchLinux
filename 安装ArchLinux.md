@@ -10,3 +10,4 @@ Arch是一个可以根据用户需求而自行定制的Linux发行版本，而�
 
 ## 准备工作：
   1.[在Arch Linux 中文维基下载iso镜像](https://archlinux.org/download/)
+  2.[使用win系统使用Ventoy工具写入启动引导信息在u盘上](https://github.com/ventoy/Ventoy/releases)
