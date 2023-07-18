@@ -24,5 +24,7 @@ Arch是一个可以根据用户需求而自行定制的Linux发行版本，而�
   选择您的arch镜像，然后默认第一项启动，加载一会然后就会进入一个tty界面
 
   ## 安装arch:
-  注意：必须确保是UEFI 模式下启动，可以自行输入ls /sys/firmware/efi/efivars指令来进行判断，如果能列出大量文件，则为UEFI 模式
+  注意：必须确保是UEFI 模式下启动，可以自行输入ls /sys/firmware/efi/efivars指令来进行判断，如果能列出大量文件，则为UEFI 模式  
+
+  
   
